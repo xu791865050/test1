@@ -1,7 +1,7 @@
 """
 ==========================
 -*- coding: utf-8 -*-
-@file   :demo6.py 
+@file   :xu1.py 
 author  :Xu
 @Email  :1009620783
 time    :2021/1/5 
